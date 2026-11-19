@@ -6,7 +6,12 @@ An editor update must not replace it. Hashes identify bytes; review and trust th
 project before explicitly running any code. No registry of historical Zero kits
 is needed. This is not a full offline archive of upstream dependencies.
 
-Use a standalone Node 22 and JDK 21. Zero Setup can supply private runtimes for
+Zero supports its current browser tooling version. If your project has an older
+saved builder, keep the original project and a backup, create a new Zero project,
+then carefully copy your source files and assets into it. Test the new project.
+Zero does not automatically replace the saved builder in an existing project.
+
+Use standalone Node 22.23.4 or newer in the Node 22 line and JDK 21. Zero Setup can supply private runtimes for
 its editor; there is no global npm requirement. When rebuilding outside Zero,
 obtain compatible tools from their official publishers and set JAVA_HOME to the
 JDK. `runtime-lock.json` records exact reviewed archive

@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "4476de86e8c16e4474297d33ca2a8600b55660df339055c5b9ed2936027e3aca",
-      "bytes": 3192
+      "sha256": "f01a4057f33f4edd7691e680f2787828ae207749ad50bae6988cf17bb0401158",
+      "bytes": 3545
     },
     {
       "path": "media/sharing-config.json",
@@ -20,17 +20,17 @@
     },
     {
       "path": "run.cjs",
-      "sha256": "e25eaae75cbfb8808590219c81b09b81ca102bcd3892fdfa51f7b0e8c8a16966",
-      "bytes": 10067
+      "sha256": "4c395d770c3639cd504c23cb1d45cf87618bc4604c9ed2e5d163590f81ef01ec",
+      "bytes": 10518
     },
     {
       "path": "runtime-lock.json",
-      "sha256": "2c9399d333fe1b5e0645d9aea98abc3f4ea8ebf4b9660cb4fbe8aa44860577bb",
+      "sha256": "026744b75f8af74672fc0bbb4ee203afa88d49970cf429570590fbd18637d483",
       "bytes": 2620
     },
     {
       "path": "src/core-contract.js",
-      "sha256": "a260b144cd34165e752179605b0b15af1a9e3fdd6fffd6ab2167762ac6b8969d",
+      "sha256": "afe07942fdc5ce3a90ac1d8bb4d000eb5d141b4556a855f22eb3820c8c07c08f",
       "bytes": 6866
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "path": "src/sharing/authoring.js",
-      "sha256": "ad6b5ef3b2e573a3bb5eb37f2f04090c234d577b1cb43e80a63e82c87818cc5b",
-      "bytes": 32737
+      "sha256": "049d0989e36372746ee63af49038f935c00c18a777cf6a15e6e800170798803d",
+      "bytes": 33357
     },
     {
       "path": "src/sharing/configuration.js",
@@ -55,8 +55,8 @@
     },
     {
       "path": "src/sharing/consumer.js",
-      "sha256": "3913d6cb6af8f0e34438cf9676b6c9004223f69f743af5f1baae1459fe805abe",
-      "bytes": 21247
+      "sha256": "d28d55b67e72dc9b52a3990ca583b90c3ede3ac541e6f364827bf52be66dfacb",
+      "bytes": 23988
     },
     {
       "path": "src/sharing/contracts.js",
@@ -69,24 +69,29 @@
       "bytes": 5768
     },
     {
+      "path": "src/sharing/owned-library.js",
+      "sha256": "496c00e3e7b2e8ad1cd1c245bdc445d7fa7d1f4aa7e0e0f16fadd6ce68515489",
+      "bytes": 11853
+    },
+    {
       "path": "src/sharing/tutorial-practice.js",
       "sha256": "6ab04a5abf7b362c61de199642b1a915b79f852e34e6b5cc021e64987a1794fc",
       "bytes": 764
     },
     {
       "path": "src/web-export/README.md",
-      "sha256": "78980b0dac6b9daaf5f84d971e1d3cce6e703bf5c0da078f1ded65a3f4777312",
-      "bytes": 4570
+      "sha256": "82a116b1b5180b30c87b88303679f7c3c3834e500dbd62cd739f7ccbf04fef65",
+      "bytes": 5798
     },
     {
       "path": "src/web-export/adapters/README.md",
-      "sha256": "9e73083a7e12c8a6f8957b67b110a0f7143746e2d7df6aa4546ea3f31dbea738",
-      "bytes": 5229
+      "sha256": "c353f388d1039bf497800bceb28404ff6fba0bf954b005ac25af67f79a628786",
+      "bytes": 6302
     },
     {
       "path": "src/web-export/adapters/index.js",
-      "sha256": "1d2f04301cca5e81caef9e1abc357358fee93d7beedc13a16a4ac2ba1d396f12",
-      "bytes": 15910
+      "sha256": "737f4bacd114dc6bb14f79f8a41e8f7f8592099a34953f6a63d65ac0522b7220",
+      "bytes": 17331
     },
     {
       "path": "src/web-export/adapters/runtime/javafx/scene/ZeroDisabledState.java",
@@ -180,13 +185,13 @@
     },
     {
       "path": "src/web-export/compatibility/CheckCompatibility.java",
-      "sha256": "0856137c0d2adaf5d03ab5b20fd6e07bfa306eeeedc34ee37ba8e58449db5eb5",
-      "bytes": 15301
+      "sha256": "bce7035e96b78e28e5de77a4fa93d985292833a32fbca89ee6d488ac9bafb942",
+      "bytes": 16707
     },
     {
       "path": "src/web-export/compatibility/README.md",
-      "sha256": "787b43159c65c8e9d08396696f0abd6ae7436e9f018ae3f45fecaa3908ed6eb6",
-      "bytes": 4248
+      "sha256": "119fff9f1c130299c4223d7e50c459d066ad4ec063c51f2546dbff928da57ce6",
+      "bytes": 5016
     },
     {
       "path": "src/web-export/compatibility/cache.js",
@@ -195,18 +200,18 @@
     },
     {
       "path": "src/web-export/compatibility/cached-project.js",
-      "sha256": "194a13b127f6d29abb860587010257bb7b1448569e0b7476bd5ba98aaae30dd4",
-      "bytes": 4914
+      "sha256": "d6f9ecca373c2e9160088dc7356735632c3fda4fb3474c03aa257ac73673ae47",
+      "bytes": 5028
     },
     {
       "path": "src/web-export/compatibility/contract.json",
-      "sha256": "65363ae8ac07f6c217b51aa4a0726be65b9e3ba8364bf23a6460e2e57f5d46f6",
-      "bytes": 17952
+      "sha256": "ba599b785b14c285ff6fddbc0976eaf8221c16d298d39bd7943653ea379f035a",
+      "bytes": 17990
     },
     {
       "path": "src/web-export/compatibility/index.js",
-      "sha256": "01a47c40e7f013b64255bfea2ba8cbb363955b2c702baccadba0059890a3f9f8",
-      "bytes": 13450
+      "sha256": "43ebc3149b08d8fbbf0f9b11b97cf95c737dd797d5c73e9cd02943859e622ef6",
+      "bytes": 14411
     },
     {
       "path": "src/web-export/compatibility/maven-artifacts.json",
@@ -225,13 +230,13 @@
     },
     {
       "path": "src/web-export/index.js",
-      "sha256": "f2a525321ea5fb06192315bca9a2a29a0dc51dca9b00807850bd2c705f30e2b7",
-      "bytes": 26733
+      "sha256": "04e1cd28a096aaa729361c245bf161114580a3753d27f5881085436d5c7861d3",
+      "bytes": 26533
     },
     {
       "path": "src/web-export/libraries.js",
-      "sha256": "d7d2b1c7ee55deab65596d075378499f022afc8cd8c7c45b551f73c59c554674",
-      "bytes": 7969
+      "sha256": "e6729fda2ae5948f8eef5403362d7ea80917ac9507194da1527a4d8d542a4908",
+      "bytes": 8676
     },
     {
       "path": "src/web-export/notices/Apache-2.0.txt",
@@ -264,19 +269,24 @@
       "bytes": 1157
     },
     {
+      "path": "src/web-export/notices/ZERO-LICENSE.txt",
+      "sha256": "fd45ea5242e7550a8ba127f1e602488f392d79f2475299be0aadb4f400719fa4",
+      "bytes": 5812
+    },
+    {
       "path": "src/web-export/notices/Zero-MIT.txt",
       "sha256": "a7c5bf5f4c37804435c8c763c4e7e7b08dca4b2af128f22e5a543cf8eee7d96f",
       "bytes": 1069
     },
     {
       "path": "src/web-export/project.js",
-      "sha256": "8e8bccca9771968ef4dca600d6a28319f63629c86c675d66b6a51549b974ddce",
-      "bytes": 10160
+      "sha256": "a9763f3447c6a240dc1a7f3b418bb320d0156c6a3f8a0c8fb6ba1a36407732b8",
+      "bytes": 12218
     },
     {
       "path": "src/web-export/snapshot.js",
-      "sha256": "ed44735980e90d726481cfaccd02f3883fcc6d843aa885bf7167c98a38287699",
-      "bytes": 17537
+      "sha256": "f03a94666683b14f1355aecec206c2b4dc3e8246350c497f1fb2ac05677bf2c8",
+      "bytes": 26762
     },
     {
       "path": "src/web-export/template/FxEvents.java",
@@ -314,5 +324,5 @@
       "bytes": 1796
     }
   ],
-  "closureSha256": "7d3d7a27446fe6ab4c6f5f5fd15f486c81d3eb5ba67fc703c2e0b9f9c36a5b3c"
+  "closureSha256": "6715746c537176fd63fd2eb3e77dcd650ccfa98442a176a2067dc6d1f931767b"
 }
